@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ArrIcons';
+    src: url('#{$arr-font-dir}/arricons.eot');
+    src: url('#{$arr-font-dir}/arricons.eot?#iefix') format('embedded-opentype'),
+    url('#{$arr-font-dir}/arricons.woff2') format('woff2'),
+    url('#{$arr-font-dir}/arricons.woff') format('woff'),
+    url('#{$arr-font-dir}/arricons.ttf') format('truetype'),
+    url('#{$arr-font-dir}/arricons.svg#arriconregular') format('svg');
+}

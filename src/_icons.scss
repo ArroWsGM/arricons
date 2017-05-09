@@ -1,0 +1,175 @@
+.#{$arr-name} {
+    position: relative;
+    top: -1px;
+    display: inline-block;
+    font-family: 'ArrIcons';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.#{$arr-name}-arrows2:before,
+.#{$arr-name}-arrows-seal:before{
+    content: "\f000";
+}
+.#{$arr-name}-arrows:before{
+    content: "\f001";
+}
+.#{$arr-name}-w3c:before{
+    content: "\f100";
+}
+.#{$arr-name}-html5:before{
+    content: "\f101";
+}
+.#{$arr-name}-html5-2:before{
+    content: "\f102";
+}
+.#{$arr-name}-js:before,
+.#{$arr-name}-javascript:before{
+    content: "\f103";
+}
+.#{$arr-name}-css3:before{
+    content: "\f104";
+}
+.#{$arr-name}-sass-seal:before,
+.#{$arr-name}-sass2:before{
+    content: "\f201";
+}
+.#{$arr-name}-sass:before{
+    content: "\f202";
+}
+.#{$arr-name}-less-seal:before,
+.#{$arr-name}-less2:before{
+    content: "\f204";
+}
+.#{$arr-name}-less:before{
+    content: "\f203";
+}
+.#{$arr-name}-twbs:before,
+.#{$arr-name}-twitter-bootstrap:before{
+    content: "\f301";
+}
+.#{$arr-name}-jquery:before,
+.#{$arr-name}-jq:before{
+    content: "\f302";
+}
+.#{$arr-name}-jquery-ui:before,
+.#{$arr-name}-jqui:before{
+    content: "\f303";
+}
+.#{$arr-name}-bulma:before{
+    content: "\f304";
+}
+.#{$arr-name}-bulma-seal:before,
+.#{$arr-name}-bulma2:before{
+    content: "\f305";
+}
+.#{$arr-name}-npm:before{
+    content: "\f401";
+}
+.#{$arr-name}-gulp:before{
+    content: "\f402";
+}
+.#{$arr-name}-grunt:before{
+    content: "\f403";
+}
+.#{$arr-name}-bower:before{
+    content: "\f404";
+}
+.#{$arr-name}-webpack:before{
+    content: "\f405";
+}
+.#{$arr-name}-njs:before,
+.#{$arr-name}-nodejs:before{
+    content: "\f501";
+}
+.#{$arr-name}-coffeescript:before,
+.#{$arr-name}-cscr:before{
+    content: "\f502";
+}
+.#{$arr-name}-ajs:before,
+.#{$arr-name}-angular:before{
+    content: "\f503";
+}
+.#{$arr-name}-vue:before,
+.#{$arr-name}-vuejs:before{
+    content: "\f505";
+}
+.#{$arr-name}-ci:before,
+.#{$arr-name}-codeigniter:before{
+    content: "\f601";
+}
+.#{$arr-name}-laravel:before{
+    content: "\f602";
+}
+.#{$arr-name}-magento:before{
+    content: "\f603";
+}
+.#{$arr-name}-symfony:before{
+    content: "\f604";
+}
+.#{$arr-name}-yii:before{
+    content: "\f605";
+}
+.#{$arr-name}-zend:before{
+    content: "\f606";
+}
+.#{$arr-name}-apache:before{
+    content: "\f701";
+}
+.#{$arr-name}-nginx:before{
+    content: "\f702";
+}
+.#{$arr-name}-php:before{
+    content: "\f703";
+}
+.#{$arr-name}-mysqlfull:before{
+    content: "\f801";
+}
+.#{$arr-name}-mysql:before{
+    content: "\f802";
+}
+.#{$arr-name}-mariadbfull:before{
+    content: "\f803";
+}
+.#{$arr-name}-mariadb:before{
+    content: "\f804";
+}
+.#{$arr-name}-pgsql:before,
+.#{$arr-name}-postgresql:before{
+    content: "\f805";
+}
+.#{$arr-name}-sqlite:before{
+    content: "\f806";
+}
+.#{$arr-name}-mongodb:before{
+    content: "\f807";
+}
+.#{$arr-name}-redis:before{
+    content: "\f808";
+}
+.#{$arr-name}-bitbucket:before{
+    content: "\f8a1";
+}
+.#{$arr-name}-git:before{
+    content: "\f8a2";
+}
+.#{$arr-name}-chrome:before{
+    content: "\f8c1";
+}
+.#{$arr-name}-edge:before{
+    content: "\f8c2";
+}
+.#{$arr-name}-opera:before{
+    content: "\f8c3";
+}
+.#{$arr-name}-vivaldi:before{
+    content: "\f8c4";
+}
+.#{$arr-name}-safari:before{
+    content: "\f8c5";
+}
+.#{$arr-name}-firefox:before{
+    content: "\f8c8";
+}
