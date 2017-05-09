@@ -24,7 +24,7 @@ Using icons animation
 ```
 <span class="ari ari-arrows-seal ari-spin"></span>
 ```
-See details and full icons class list [here](./dist/index.html)
+See details and full icons class list in [/dist/index.html](./dist/index.html)
 
 ### Icons list
  Icon | Icon | Icon | Icon | Icon
