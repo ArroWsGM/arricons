@@ -46,7 +46,7 @@ module.exports = {
             {
                 test: /\.(svg|eot|woff|woff2|ttf)$/,
                 include: [
-                    path.resolve(__dirname, 'src/fonts')
+                    path.resolve(__dirname, 'fonts')
                 ],
                 use: {
                     loader: 'file-loader',
